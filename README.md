@@ -32,6 +32,7 @@ Este projeto foi desenvolvido no decorrer dos meus estudos, com o propósito de 
 -  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/)
 -  [ReactJS](https://reactjs.org/)
 -  [JavaScript](https://www.javascript.com/)
+-  [Redux](https://redux.js.org/)
 -  [MDS web docs](https://developer.mozilla.org/pt-BR/)
 -  [Documentação](https://pt.wikipedia.org/wiki/JavaScript)
 
