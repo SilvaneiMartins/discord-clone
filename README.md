@@ -15,7 +15,7 @@
 <h4 align="left">
   Demotração do Projeto, acessar link abaixo.
 </h4 >
-<a href="https://vigilant-joliot-5e0c6e.netlify.app/" target="_blank" >https://vigilant-joliot-5e0c6e.netlify.app</a>
+<a href="https://vigilant-joliot-5e0c6e.netlify.app/" target="_blank" >DEPLOY DO PROJETO</a>
 
 <h4 align="left">
   Demotração do Projeto Clone Desenvolvido.
