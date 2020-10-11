@@ -1,0 +1,123 @@
+.login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.login > div > img {
+    object-fit: contain;
+    height: 300px;
+}
+
+.logo__right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    width: 400px;
+    height: 400px;
+}
+
+.logo__right > h1 {
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 20px;
+    color: #666360;
+}
+
+.logo__right > h3 {
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #666360;
+}
+
+.login__inputEmail {
+    display: flex;
+    align-items: center;
+    color: gray;
+    background-color: #202024;
+    border-radius: 3px;
+    padding: 3px;
+    width: 98%;
+    height: 50px;
+    border-radius: 7px;
+    margin-bottom: 5px;
+    box-shadow: -2px 2px 9px 9px rgb(0,0,0,0.5);
+}
+
+.login__inputEmail > .MuiSvgIcon-root {
+    margin-left: 10px;
+}
+
+.login__inputEmail > input {
+    background: transparent;
+    width: 100%;
+    outline-width: 0;
+    color: #E1E1E6;
+    border: none;
+    font-size: 17px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.login__inputPassword {
+    display: flex;
+    align-items: center;
+    color: gray;
+    background-color: #202024;
+    border-radius: 3px;
+    padding: 3px;
+    margin: 5px;
+    width: 98%;
+    height: 50px;
+    border-radius: 7px;
+    box-shadow: -2px 2px 9px 9px rgb(0,0,0,0.5);
+}
+
+.login__inputPassword > .MuiSvgIcon-root {
+    margin-left: 10px;
+}
+
+.login__inputPassword > input {
+    background: transparent;
+    width: 100%;
+    outline-width: 0;
+    color:  #E1E1E6;
+    border: none;
+    font-size: 17px;
+    margin-left: 12px;
+    margin-right: 10px;
+}
+
+.login__eyepassword {
+    align-items: center;
+    justify-content: center;
+    font-size: 30;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.login__eyepassword > .MuiSvgIcon-root {
+    margin-right: 10px;
+}
+
+.logo__right > button {
+    width: 100%;
+    background-color: #202024;
+    color: #EFF2F5;
+    font-weight: 800;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-top: 10px;
+    box-shadow: -2px 2px 9px 9px rgb(0,0,0,0.5);
+}
+
+.logo__right > button:hover {
+    background-color: #29292E;
+    color: #EFF2F5;
+}
